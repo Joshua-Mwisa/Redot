@@ -11,7 +11,7 @@ An E-Commerce website made with the intention of offering the Kenyan greengrocer
 
 ## How To Contribute.
 
-1. Clone the repository <pre> ``` git@github.com:Joshua-Mwisa/Driving_class.git ``` </pre>
+1. Clone the repository <pre> ``` https://github.com/Joshua-Mwisa/Redot.git ``` </pre>
 2. Create a new branch.
 3. Make changes and test.
 4. Submit pull request with comprehensive description of changes.
