@@ -1,4 +1,4 @@
-![Painter logo](https://github.com/Joshua-Mwisa/Inventory-Management/blob/master/Inventory_Management_System.png)
+![RedDot logo](https://github.com/Joshua-Mwisa/Redot/blob/master/RedDot.png)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Joshua-Mwisa/Redot) 
 ![GitHub top language](https://img.shields.io/github/languages/top/Joshua-Mwisa/Redot)
@@ -7,8 +7,7 @@
 
 #
 
-With the assistance of an Inventory Management System, an enterprise can automate repetitive tasks, greatly reduce operation cost, eliminate the inventory costs associated with human error, allows the reduction of excess and obsolete stock and ultimately gives its user the ability to make more profitable business decisions.
-
+An E-Commerce website made with the intention of offering the Kenyan greengrocer an opportunity to generate more sales with an optimized and well developed website. With this, they can reach customers around the clock and offer convenient services that can boost their business.
 
 ## How To Contribute.
 
